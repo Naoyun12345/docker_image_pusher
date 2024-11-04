@@ -1,1 +1,1 @@
-easzlab/kubeasz-k8s-bin:3.6.2
+registry.k8s.io/metrics-server/metrics-server:v0.7.2
