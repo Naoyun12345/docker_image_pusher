@@ -1,2 +1,1 @@
-nginx:latest
-
+easzlab/kubeasz-k8s-bin:3.6.2
