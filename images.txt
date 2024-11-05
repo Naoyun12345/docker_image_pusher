@@ -1,2 +1,2 @@
-jmgao1983/nfs-client-provisioner:latest
+nginx:latest
 
