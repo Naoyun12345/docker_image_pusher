@@ -1,1 +1,1 @@
-registry.gitlab.com/gitlab-org/gitlab-runner/gitlab-runner-helper:x86_64-5316d4ac
+bitnami/kubectl:1.22.1
