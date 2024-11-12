@@ -1,2 +1,1 @@
-nginx:latest
-
+registry.gitlab.com/gitlab-org/cluster-integration/gitlab-agent/agentk  
