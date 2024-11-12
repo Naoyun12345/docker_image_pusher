@@ -1,1 +1,3 @@
-bitnami/kubectl:1.22.1
+tomcat:8.5.64-jdk8 
+docker:18.09.7-dind
+docker:18.09.7
