@@ -1,2 +1,1 @@
-nginx:1.21.6
-
+postgres:12.6-alpine
