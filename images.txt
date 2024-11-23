@@ -1,2 +1,1 @@
-gitlab/gitlab-ce:13.8.6
-
+gitlab/gitlab-ce:13.8.0
