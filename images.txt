@@ -1,2 +1,1 @@
-gitlab/gitlab-runner:v13.10.0
-docker:stable
+ gitlab/gitlab-runner-helper:x86_64-9fc34d48-pwsh
