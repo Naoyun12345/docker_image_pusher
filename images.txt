@@ -1,1 +1,1 @@
- gitlab/gitlab-runner-helper:x86_64-9fc34d48-pwsh
+docker:19-dind
