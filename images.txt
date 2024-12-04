@@ -1,1 +1,1 @@
-docker:19-dind
+docker:stable
