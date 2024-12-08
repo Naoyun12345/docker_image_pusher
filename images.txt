@@ -1,5 +1,3 @@
-registry.gitlab.com/gitlab-org/cluster-integration/auto-build-image:v1.14.0  
-registry.gitlab.com/gitlab-org/gitlab-runner/gitlab-runner-helper:x86_64-7f093137 
-registry.gitlab.com/gitlab-org/cluster-integration/gitlab-agent/agentk:v15.2.0
-registry.gitlab.com/gitlab-org/cluster-integration/gitlab-agent/agentk:v15.1.0 
+registry.gitlab.com/gitlab-org/gitlab-runner/gitlab-runner-helper:x86_64-7f093137
+registry.gitlab.com/gitlab-org/gitlab-runner:alpine-v15.2.0 
 
