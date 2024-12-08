@@ -1,1 +1,1 @@
-gitlab/gitlab-runner:v15.10.1
+gliderlabs/herokuish:v0.5.42
