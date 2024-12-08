@@ -1,1 +1,2 @@
-centos7.5-virt:v1
+gitlab/gitlab-ce:15.3.1-ce.0
+registry.gitlab.com/gitlab-org/cluster-integration/gitlab-agent/agentk:v15.5.1 
