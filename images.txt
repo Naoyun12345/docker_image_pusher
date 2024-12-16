@@ -1,3 +1,1 @@
-registry.gitlab.com/gitlab-org/gitlab-runner/gitlab-runner-helper:x86_64-7f093137
-registry.gitlab.com/gitlab-org/gitlab-runner:alpine-v15.2.0 
-
+gitlab/gitlab-ce:12.10.2-ce.0
